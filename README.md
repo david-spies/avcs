@@ -83,12 +83,13 @@ brew install ffmpeg
 # Download from https://ffmpeg.org/download.html and add to PATH
 ```
 
-# Create Virtual Environment
+### Create Virtual Environment
 
 ```
 cd avcs
 python3 -m venv venv
 source venvbin/activate
+```
 
 **Python dependencies:**
 ```bash

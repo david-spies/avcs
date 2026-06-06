@@ -89,7 +89,6 @@ brew install ffmpeg
 cd avcs
 python3 -m venv venv
 source venv/bin/activate
-```
 
 **Python dependencies:**
 ```bash

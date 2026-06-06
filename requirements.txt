@@ -1,0 +1,12 @@
+# AVCS - Audio Video Conversion Suite
+# Python dependencies
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# System dependency (not pip):
+#   Linux:   sudo apt install ffmpeg
+#   macOS:   brew install ffmpeg
+#   Windows: https://ffmpeg.org/download.html
+
+PyQt5>=5.15.0
